@@ -143,7 +143,7 @@ integration.
 
 ## 📊 GitHub Statistics
 
-![Malaika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Malaika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malaikasuduzai&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
