@@ -32,6 +32,7 @@ on real-world projects and developing modern, responsive, and
 user-friendly websites.
 
 **Focus Areas:**
+
 - 🌐 Front-End Development
 - 🎨 Website Design
 - 📱 Responsive Web Design
@@ -72,7 +73,8 @@ skills, education, certificates, services, and projects.
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap
 
-🔗 **Live Website:**  
+🔗 **Live Website:**
+
 https://malaikasuduzai.github.io/Malaika-Portfolio/
 
 ---
@@ -85,6 +87,7 @@ donors, blood banks, donations, and contact information.
 **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 
 **Features:**
+
 - Donor management
 - Blood bank management
 - Donation records
@@ -101,6 +104,7 @@ integration.
 **Technologies:** HTML, CSS, JavaScript, C#, .NET, MySQL
 
 **Features:**
+
 - User registration and login
 - Secure authentication
 - Voting functionality
@@ -138,12 +142,6 @@ integration.
 ### 💼 LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malaika-shabir-59333940b)
-
----
-
-## 📊 GitHub Statistics
-
-![Malaika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malaikasuduzai&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
